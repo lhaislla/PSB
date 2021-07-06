@@ -1,0 +1,5 @@
+
+ Sistema Operacional: Linux
+ Endereço IP: 12897138767813
+ Quantidade de memória:512
+ Quantidade de CPU: 131313
