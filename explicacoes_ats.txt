@@ -1,0 +1,25 @@
+
+
+Terceira Atividade Pratica de PSB: 
+- Yourkit: https://youtu.be/5QLqzyVZ0LE
+- Jmeter: https://youtu.be/oilkJUBmV6k
+- Alguns tutoriais de base: 
+	* https://medium.com/jmeter/jmeter-teste-de-carga-2f1ed3932e4f
+	* https://medium.com/@thi_carva/teste-stress-jmeter-f99c8fc9a2ac
+https://www.youtube.com/results?search_query=writing+linux+drivers
+
+
+Primeira Atividade de PSB(divice driver):
+- Links passados por Assad:
+	*Uma visão geral do que seria um device driver: https://esupport.winzipsystemtools.com/pt/driver-updater/what-are-device-drivers-and-why-should-i-use-driver-updater/
+	Para escrever o driver segue alguns documentos que podem ajudar:
+		https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os
+		https://jvgd.medium.com/how-to-write-a-device-driver-76d0584a4be3
+		https://www.oreilly.com/library/view/linux-device-drivers/0596005903/ch01.html+lhaislla@gmail.com
+
+- Links pesquisados: 
+	* Git com código: https://github.com/apriorit/SimpleLinuxDriver 
+	* Tutorial: https://jvgd.medium.com/how-to-write-a-device-driver-76d0584a4be3 
+	* Video de explicação: https://www.youtube.com/watch?v=YR_vYTh8CmY&ab_channel=FastbitEmbeddedBrainAcademy 
+	* video de explicação2(do inicio): https://www.youtube.com/watch?v=oX9ZwMQL2f4&ab_channel=FastbitEmbeddedBrainAcademy
+	* Criar divice-driver wi-fi: https://www.apriorit.com/business-case-studies-list/695-usb-wifi-driver-development 
